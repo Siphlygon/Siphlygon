@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Ashley and I'm a final-year MPhys (Hons) Physics with Astrophysics student at the University of Manchester.
+
+I have always enjoyed coding, and I have had especially great fun this year combining my interests by exploring machine learning applications in astrophysical domainds!
+
+I am looking to learn more, experiment, and expand my skillset!
+
 <!--
 **Siphlygon/Siphlygon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
